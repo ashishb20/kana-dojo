@@ -725,8 +725,10 @@
     "english": "I’d even borrow a cat’s paws",
     "meaning": "Extremely busy and desperate for help. (Set 5)",
     "id": 81,
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": true,
+    "completedBy": "Kubudak90",
+    "completedPR": 8082
   },
   {
     "japanese": "頭が上がらない",
