@@ -350,7 +350,7 @@
   {
     "id": 59,
     "text": "\"〜てしまう\" can express completion or regret (\"end up doing\").",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -608,7 +608,7 @@
   {
     "id": 102,
     "text": "\"〜てあげる\" shows the speaker does a favor for someone else. (practice variation 17)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -782,7 +782,7 @@
   {
     "id": 131,
     "text": "\"〜にする\" means \"decide on\" a choice or selection. (practice variation 46)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

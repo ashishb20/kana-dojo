@@ -167,7 +167,7 @@
     "anime": "JoJo's Bizarre Adventure: Golden Wind",
     "character": "Narancia Ghirga",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 18,
@@ -176,7 +176,7 @@
     "english": "You're already dead.",
     "anime": "Fist of the North Star",
     "character": "Kenshiro",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -476,7 +476,7 @@
     "english": "I mustn't run away!",
     "anime": "Neon Genesis Evangelion",
     "character": "Shinji Ikari",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1006,7 +1006,7 @@
     "english": "Believing in my friends is my magic. (alt wording 49)",
     "anime": "Fairy Tail",
     "character": "Natsu Dragneel",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

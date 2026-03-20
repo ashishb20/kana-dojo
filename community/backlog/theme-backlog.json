@@ -196,7 +196,7 @@
     "backgroundColor": "oklch(20.0% 0.018 270.0 / 1)",
     "mainColor": "oklch(70.0% 0.155 25.0 / 1)",
     "secondaryColor": "oklch(55.0% 0.045 260.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -267,7 +267,7 @@
     "mainColor": "oklch(88.0% 0.175 110.0 / 1)",
     "secondaryColor": "oklch(65.0% 0.125 145.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "sashimi-fresh",
@@ -277,7 +277,9 @@
     "mainColor": "oklch(75.0% 0.145 5.0 / 1)",
     "secondaryColor": "oklch(85.0% 0.095 350.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true,
+    "completedBy": "Sigmabrogz",
+    "completedPR": 9249
   },
   {
     "id": "okinawa-sea",
@@ -701,7 +703,7 @@
     "mainColor": "oklch(80.0% 0.175 55.0 / 1)",
     "secondaryColor": "oklch(72.0% 0.195 20.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "frozen-lake",
@@ -723,7 +725,7 @@
     "mainColor": "oklch(70.0% 0.145 20.0 / 1)",
     "secondaryColor": "oklch(68.0% 0.095 75.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": "holographic-idol",
@@ -732,7 +734,7 @@
     "backgroundColor": "oklch(14.0% 0.065 300.0 / 1)",
     "mainColor": "oklch(82.0% 0.185 200.0 / 1)",
     "secondaryColor": "oklch(78.0% 0.210 330.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

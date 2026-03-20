@@ -50,7 +50,7 @@
     "dont": "ご飯に箸を立てる",
     "note": "立て箸は弔事連想のため避ける。",
     "id": 6,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -563,7 +563,7 @@
     "dont": "通話を続ける",
     "note": "混雑時は特に配慮する。",
     "id": 63,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -968,7 +968,7 @@
     "dont": "タオルを湯船に入れる",
     "note": "共同浴場の基本ルール。",
     "id": 108,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
