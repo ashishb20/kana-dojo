@@ -40,8 +40,10 @@
     "backgroundColor": "oklch(95.0% 0.008 90.0 / 1)",
     "mainColor": "oklch(55.0% 0.220 25.0 / 1)",
     "secondaryColor": "oklch(45.0% 0.150 20.0 / 1)",
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": true,
+    "completedBy": "inoovador",
+    "completedPR": 9835
   },
   {
     "id": "thunder-temple",
@@ -256,8 +258,8 @@
     "secondaryColor": "oklch(70.0% 0.135 225.0 / 1)",
     "issued": false,
     "completed": true,
-    "completedBy": "inoovador",
-    "completedPR": 9826
+    "completedBy": "22f3002965",
+    "completedPR": 9827
   },
   {
     "id": "geisha-grace",
@@ -818,8 +820,10 @@
     "backgroundColor": "oklch(92.0% 0.025 145.0 / 1)",
     "mainColor": "oklch(55.0% 0.175 145.0 / 1)",
     "secondaryColor": "oklch(45.0% 0.125 140.0 / 1)",
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": true,
+    "completedBy": "inoovador",
+    "completedPR": 9845
   },
   {
     "id": "starry-tanabata",
