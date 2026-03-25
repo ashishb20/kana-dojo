@@ -43,5 +43,23 @@
   "season": "Spring",
   "kigo": "Frog (kaeru)",
   "notes": "Humorous encouragement and compassion in Issa's voice."
+  },
+  {
+  "japanese": "五月雨を 集めて早し 最上川",
+  "romaji": "Samidare o / atsume te hayashi / Mogamigawa",
+  "english": "Gathering summer rains, the Mogami River rushes on.",
+  "poet": "Matsuo Basho",
+  "season": "Summer",
+  "kigo": "Summer rain (samidare)",
+  "notes": "A dynamic river image with strong seasonal presence."
+  },
+  {
+  "japanese": "秋深き 隣は何を する人ぞ",
+  "romaji": "Aki fukaki / tonari wa nani o / suru hito zo",
+  "english": "In deep autumn, what kind of person lives next door?",
+  "poet": "Matsuo Basho",
+  "season": "Autumn",
+  "kigo": "Deep autumn (aki fukaki)",
+  "notes": "Evokes solitude and curiosity."
   }
 ]

@@ -78,7 +78,7 @@
     "english": "When in a village, follow the village customs",
     "meaning": "When in Rome, do as the Romans do",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 10,
@@ -681,7 +681,7 @@
     "english": "After rain, the ground hardens",
     "meaning": "Adversity can strengthen relationships",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 77,
@@ -770,7 +770,7 @@
     "romaji": "Nen ni wa nen wo ireyo",
     "english": "Put care into care",
     "meaning": "Double-check; be extra careful",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -780,7 +780,7 @@
     "english": "Regret does not stand before",
     "meaning": "It's too late for regrets",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 88,
@@ -789,7 +789,7 @@
     "english": "You can't shake a sleeve you don't have",
     "meaning": "You can't give what you don't have",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 89,
@@ -797,7 +797,7 @@
     "romaji": "Hito no furi mite waga furi naose",
     "english": "Watch others and correct yourself",
     "meaning": "Learn from others' behavior",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -806,7 +806,7 @@
     "romaji": "Keizoku wa chikara nari",
     "english": "Continuation is power",
     "meaning": "Consistency leads to strength",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -815,7 +815,7 @@
     "romaji": "Ame futte ji katamaru",
     "english": "After the rain, the ground hardens",
     "meaning": "Hard times make relationships stronger",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -825,7 +825,7 @@
     "english": "A rolling stone gathers no moss",
     "meaning": "Constant change prevents stagnation",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 93,
@@ -1445,7 +1445,7 @@
     "romaji": "Issun saki wa yami",
     "english": "An inch ahead is darkness",
     "meaning": "The future is uncertain",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1455,7 +1455,7 @@
     "english": "Good fortune comes to a laughing home",
     "meaning": "Happiness invites luck",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 163,
@@ -1463,7 +1463,7 @@
     "romaji": "Ugo no takenoko",
     "english": "Bamboo shoots after rain",
     "meaning": "Things spring up rapidly",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1472,7 +1472,7 @@
     "romaji": "Senri no michi mo ippo kara",
     "english": "A journey of a thousand miles begins with one step",
     "meaning": "Start small",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1482,7 +1482,7 @@
     "english": "Early rising brings three coins of benefit",
     "meaning": "Wake early for advantage",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 166,
@@ -1490,7 +1490,7 @@
     "romaji": "Mago ni mo ishou",
     "english": "Even a packhorse driver looks good in fine clothes",
     "meaning": "Clothes make the person",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1499,7 +1499,7 @@
     "romaji": "Ni to wo ou mono wa itto wo mo ezu",
     "english": "Chase two rabbits, catch none",
     "meaning": "Focus on one thing",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1509,7 +1509,7 @@
     "english": "A frog in a well doesn’t know the ocean",
     "meaning": "Limited experience limits perspective",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 169,
