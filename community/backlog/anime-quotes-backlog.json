@@ -618,7 +618,7 @@
     "english": "Next you'll say, 'Good grief!' (alt wording 10)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Joseph Joestar",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -748,7 +748,7 @@
     "english": "Dance to my beautiful technique! (alt wording 23)",
     "anime": "The Prince of Tennis",
     "character": "Keigo Atobe",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
