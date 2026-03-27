@@ -5,7 +5,7 @@ import { removeLocaleFromPath } from '@/shared/lib/pathUtils';
 import { Sparkles } from 'lucide-react';
 
 const badgeClasses =
-  'flex h-10 w-10 shrink-0 items-center justify-center rounded-2xl border-b-6 border-(--secondary-color-accent) bg-(--secondary-color) leading-none text-(--background-color) shadow-[0_2px_0_var(--secondary-color-accent)]';
+  'flex h-10 w-10 shrink-0 items-center justify-center rounded-2xl border-b-6 border-(--secondary-color-accent) bg-(--secondary-color) leading-none text-(--background-color) animate-float [--float-distance:-3px]';
 
 const Banner = () => {
   const pathname = usePathname();
