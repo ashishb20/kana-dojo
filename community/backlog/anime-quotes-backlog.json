@@ -297,7 +297,7 @@
     "anime": "One Piece",
     "character": "Monkey D. Luffy",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 31,
@@ -307,7 +307,7 @@
     "anime": "One Piece",
     "character": "Edward Newgate (Whitebeard)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 32,
@@ -326,7 +326,7 @@
     "english": "I never give up, believe it!",
     "anime": "Naruto",
     "character": "Naruto Uzumaki",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -337,7 +337,7 @@
     "anime": "Naruto",
     "character": "Kakashi Hatake",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 35,
@@ -346,7 +346,7 @@
     "english": "A lesson without pain is meaningless.",
     "anime": "Fullmetal Alchemist: Brotherhood",
     "character": "Edward Elric",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -357,7 +357,7 @@
     "anime": "Attack on Titan",
     "character": "Eren Yeager",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 37,
@@ -366,7 +366,7 @@
     "english": "Don't let anyone else take control of your life and death!",
     "anime": "Demon Slayer: Kimetsu no Yaiba",
     "character": "Tanjiro Kamado",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
