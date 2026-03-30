@@ -367,7 +367,9 @@
     "mainColor": "oklch(20.0% 0.015 270.0 / 1)",
     "secondaryColor": "oklch(45.0% 0.025 260.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "22f3002016",
+    "completedPR": 10895
   },
   {
     "id": "daruma-red",
@@ -476,7 +478,7 @@
     "backgroundColor": "oklch(21.0% 0.038 50.0 / 1)",
     "mainColor": "oklch(82.0% 0.135 85.0 / 1)",
     "secondaryColor": "oklch(65.0% 0.165 40.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -677,7 +679,9 @@
     "mainColor": "oklch(88.0% 0.165 65.0 / 1)",
     "secondaryColor": "oklch(72.0% 0.185 35.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "mridul-verma2005",
+    "completedPR": 10830
   },
   {
     "id": "lavender-fields",
@@ -961,7 +965,9 @@
     "mainColor": "oklch(65.0% 0.170 25.0 / 1)",
     "secondaryColor": "oklch(58.0% 0.055 260.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "23f3001526",
+    "completedPR": 10034
   },
   {
     "id": "noh-mask",
@@ -1001,7 +1007,9 @@
     "mainColor": "oklch(88.0% 0.170 95.0 / 1)",
     "secondaryColor": "oklch(72.0% 0.135 75.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "DEV1208",
+    "completedPR": 10880
   },
   {
     "id": "yukata-breeze",
@@ -1140,7 +1148,7 @@
     "backgroundColor": "oklch(20.0% 0.020 70.0 / 1)",
     "mainColor": "oklch(85.0% 0.155 85.0 / 1)",
     "secondaryColor": "oklch(60.0% 0.085 25.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1574,7 +1582,7 @@
     "backgroundColor": "oklch(16.0% 0.040 20.0 / 1)",
     "mainColor": "oklch(70.0% 0.215 25.0 / 1)",
     "secondaryColor": "oklch(85.0% 0.055 95.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1864,7 +1872,7 @@
     "backgroundColor": "oklch(15.0% 0.050 250.0 / 1)",
     "mainColor": "oklch(78.0% 0.180 235.0 / 1)",
     "secondaryColor": "oklch(62.0% 0.130 270.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1874,7 +1882,7 @@
     "backgroundColor": "oklch(96.0% 0.012 95.0 / 1)",
     "mainColor": "oklch(62.0% 0.110 75.0 / 1)",
     "secondaryColor": "oklch(70.0% 0.060 85.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1934,7 +1942,7 @@
     "backgroundColor": "oklch(22.0% 0.025 95.0 / 1)",
     "mainColor": "oklch(84.0% 0.120 95.0 / 1)",
     "secondaryColor": "oklch(68.0% 0.090 60.0 / 1)",
-    "issued": false,
+    "issued": true,
     "completed": false
   }
 ]

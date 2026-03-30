@@ -26,7 +26,7 @@
   {
     "id": 5,
     "text": "\"〜てはいけません\" means \"must not\" and is used for prohibitions.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -44,7 +44,7 @@
   {
     "id": 8,
     "text": "\"〜てしまう\" can show completion or regret about an action.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -80,7 +80,7 @@
   {
     "id": 14,
     "text": "\"〜なくてもいい\" means \"don't have to\" and lifts an obligation.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -201,7 +201,7 @@
     "id": 34,
     "text": "\"〜ように\" can express purpose, like \"in order to\" or \"so that\".",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 35,
@@ -320,7 +320,7 @@
   {
     "id": 54,
     "text": "\"〜ほど\" can express degree, like \"so... that\".",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -417,7 +417,7 @@
     "id": 70,
     "text": "\"〜まま\" means \"as-is / while remaining...\".",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 71,
@@ -501,7 +501,7 @@
     "id": 84,
     "text": "\"〜を通して\" means \"through / throughout...\".",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 85,
@@ -620,7 +620,7 @@
   {
     "id": 104,
     "text": "\"〜なら\" means \"if\" or \"in the case of\" and often gives advice. (practice variation 19)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -710,7 +710,7 @@
   {
     "id": 119,
     "text": "\"〜ように\" can express purpose, like \"in order to\" or \"so that\". (practice variation 34)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -758,7 +758,7 @@
   {
     "id": 127,
     "text": "\"〜ことがある\" means \"sometimes\" when talking about habitual actions. (practice variation 42)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

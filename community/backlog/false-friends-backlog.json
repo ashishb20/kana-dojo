@@ -51,7 +51,7 @@
     "example": "ホテルの朝食はバイキングです。",
     "id": 6,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "カンニング (kanningu)",
@@ -60,7 +60,7 @@
     "example": "試験でカンニングしてはいけません。",
     "id": 7,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "リベンジ (ribenji)",
@@ -105,7 +105,7 @@
     "example": "資料をホッチキスで留めてください。",
     "id": 12,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ドンマイ (donmai)",
@@ -141,7 +141,7 @@
     "example": "試合前はみんなハイテンションだった。",
     "id": 16,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "イメージ (imeeji)",
@@ -168,7 +168,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 19,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -240,7 +240,7 @@
     "example": "試験でカンニングしてはいけません。",
     "id": 27,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "リベンジ (ribenji)",
@@ -284,7 +284,7 @@
     "explanation": "ホッチキス means stapler. (Set 2)",
     "example": "資料をホッチキスで留めてください。",
     "id": 32,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -321,7 +321,7 @@
     "example": "試合前はみんなハイテンションだった。",
     "id": 36,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "イメージ (imeeji)",
@@ -348,7 +348,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 39,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -374,7 +374,7 @@
     "explanation": "マンション means apartment building in Japanese. (Set 3)",
     "example": "駅前のマンションに住んでいます。",
     "id": 42,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -411,7 +411,7 @@
     "example": "ホテルの朝食はバイキングです。",
     "id": 46,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "カンニング (kanningu)",
@@ -419,7 +419,7 @@
     "explanation": "カンニング means cheating on tests. (Set 3)",
     "example": "試験でカンニングしてはいけません。",
     "id": 47,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -465,7 +465,7 @@
     "example": "資料をホッチキスで留めてください。",
     "id": 52,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ドンマイ (donmai)",
@@ -501,7 +501,7 @@
     "example": "試合前はみんなハイテンションだった。",
     "id": 56,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "イメージ (imeeji)",
@@ -530,7 +530,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 59,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -593,7 +593,7 @@
     "example": "ホテルの朝食はバイキングです。",
     "id": 66,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "カンニング (kanningu)",
@@ -602,7 +602,7 @@
     "example": "試験でカンニングしてはいけません。",
     "id": 67,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "リベンジ (ribenji)",
@@ -647,7 +647,7 @@
     "example": "資料をホッチキスで留めてください。",
     "id": 72,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ドンマイ (donmai)",
@@ -682,7 +682,7 @@
     "explanation": "Means very energetic mood. (Set 4)",
     "example": "試合前はみんなハイテンションだった。",
     "id": 76,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -710,7 +710,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 79,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -736,7 +736,7 @@
     "explanation": "マンション means apartment building in Japanese. (Set 5)",
     "example": "駅前のマンションに住んでいます。",
     "id": 82,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -773,7 +773,7 @@
     "example": "ホテルの朝食はバイキングです。",
     "id": 86,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "カンニング (kanningu)",
@@ -782,7 +782,7 @@
     "example": "試験でカンニングしてはいけません。",
     "id": 87,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "リベンジ (ribenji)",
@@ -808,7 +808,7 @@
     "explanation": "Often means sensitive/delicate in Japanese. (Set 5)",
     "example": "彼は意外とナイーブな性格だ。",
     "id": 90,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -827,7 +827,7 @@
     "example": "資料をホッチキスで留めてください。",
     "id": 92,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ドンマイ (donmai)",
@@ -863,7 +863,7 @@
     "example": "試合前はみんなハイテンションだった。",
     "id": 96,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "イメージ (imeeji)",
@@ -890,7 +890,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 99,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -898,7 +898,7 @@
     "explanation": "In Japanese it can refer to animation in general. (Set 5)",
     "example": "子どものころからアニメが好きだ。",
     "id": 100,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -953,7 +953,7 @@
     "example": "ホテルの朝食はバイキングです。",
     "id": 106,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "カンニング (kanningu)",
@@ -962,7 +962,7 @@
     "example": "試験でカンニングしてはいけません。",
     "id": 107,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "リベンジ (ribenji)",
@@ -1007,7 +1007,7 @@
     "example": "資料をホッチキスで留めてください。",
     "id": 112,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ドンマイ (donmai)",
@@ -1069,7 +1069,7 @@
     "explanation": "Common term for plastic drink bottle. (Set 6)",
     "example": "ペットボトルは分別して捨てる。",
     "id": 119,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1078,7 +1078,7 @@
     "explanation": "In Japanese it can refer to animation in general. (Set 6)",
     "example": "子どものころからアニメが好きだ。",
     "id": 120,
-    "issued": false,
+    "issued": true,
     "completed": false
   }
 ]

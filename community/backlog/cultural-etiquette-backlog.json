@@ -14,7 +14,7 @@
     "dont": "土足で室内に上がる",
     "note": "家庭・旅館では基本マナー。",
     "id": 2,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -23,7 +23,7 @@
     "dont": "通話を続ける",
     "note": "混雑時は特に配慮する。",
     "id": 3,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -32,7 +32,7 @@
     "dont": "無言で食べ始める",
     "note": "感謝を示す慣習。",
     "id": 4,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -176,7 +176,7 @@
     "dont": "匂いの強いものを持参する",
     "note": "分けやすさが好まれる。",
     "id": 20,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -365,7 +365,7 @@
     "dont": "片手で受け取ってすぐポケットに入れる",
     "note": "商談中は机上に置くのが一般的。",
     "id": 41,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -446,7 +446,7 @@
     "dont": "割り込む",
     "note": "駅・店頭では順番厳守。",
     "id": 50,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -536,7 +536,7 @@
     "dont": "匂いの強いものを持参する",
     "note": "分けやすさが好まれる。",
     "id": 60,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -635,7 +635,7 @@
     "dont": "値段を強調する",
     "note": "謙遜表現が好まれる。",
     "id": 71,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -653,7 +653,7 @@
     "dont": "禁止場所で撮影する",
     "note": "御本尊周辺は撮影不可が多い。",
     "id": 73,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
